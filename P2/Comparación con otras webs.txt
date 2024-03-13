@@ -1,0 +1,40 @@
+Análisis y comparativa con otras aplicaciones web de similares:
+características y que estén operativas
+
+Lo primero para analizar web similares, en el caso de Campos Racing, podría ser profundizar en la web ya existente de la escudería (https://www.camposracing.com/es)
+
+Aspectos más importantes:
+- Página inicial:
+	- Barra de navegación con las distintas categorías del equipo
+		- Presentación del equipo (historia, fundador, instalaciones, etc.)
+		- Categorias (pilotos, noticias y multimedia)
+		- Contacto
+	- Contenido dinámico (galería de vídeos)
+	- Sección con información de la próxima carrera de cada categoría (dónde y cuándo)
+	- Sección para ampliar información de cada categoría
+	- Enlace a redes sociales:
+		- https://www.facebook.com/camposracing
+		- https://twitter.com/CamposRacing
+		- https://www.instagram.com/camposracing/
+		- https://www.youtube.com/user/camposracingmedia
+	- Galería de imágenes y wallpapers
+	- Noticias
+	- Patrocinadores
+	- Sección de contacto
+
+- Comparación con otras webs de otros equipos
+	- Ferrari:
+		- Sección de merchandising y tienda virtual
+		- Enlaces a redes sociales (enlace directo a publicaciones de cada red social)
+
+	- Mercedes:
+		- Presentación con portadas abundantes y mucho contenido gráfico
+
+	- Red Bull Racing
+		- Presentación individual de pilotos y de la carrocería del equipo
+
+	- Prema Racing
+		- Galería dinámica, vídeos y noticias (el resto del contenido en páginas individuales)
+
+	- ART Grand Prix
+		- Sección lateral con redes sociales del equipo
