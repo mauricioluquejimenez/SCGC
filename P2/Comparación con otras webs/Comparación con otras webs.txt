@@ -22,6 +22,16 @@ Aspectos más importantes:
 	- Patrocinadores
 	- Sección de contacto
 
+- Página individual de cada categoría
+	- Categorías deportivas (F2, F3, etc.)
+		- Descripción de la categoría
+			- Formato de competición, puntuación, etc.
+			- Ranking de equipos
+			- Ranking de pilotos
+		- Pilotos
+		- Noticias
+		- Galería
+			
 - Comparación con otras webs de otros equipos
 	- Ferrari (https://www.ferrari.com/en-EN/formula1):
 		- Sección de merchandising y tienda virtual
