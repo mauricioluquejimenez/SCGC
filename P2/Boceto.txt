@@ -1,0 +1,7 @@
+Problema a abordar:
+- Equipo deportivo de automovilismo (Campos Racing).
+- Club con varias categorías (F2, F3, F4 y otros)
+
+Requisitos:
+- Equipos (pilotos, noticias y calendario)
+- Academia (inscripción de nuevos pilotos)
