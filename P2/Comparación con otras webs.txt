@@ -23,18 +23,18 @@ Aspectos más importantes:
 	- Sección de contacto
 
 - Comparación con otras webs de otros equipos
-	- Ferrari:
+	- Ferrari (https://www.ferrari.com/en-EN/formula1):
 		- Sección de merchandising y tienda virtual
 		- Enlaces a redes sociales (enlace directo a publicaciones de cada red social)
 
-	- Mercedes:
+	- Mercedes (https://www.mercedesamgf1.com/):
 		- Presentación con portadas abundantes y mucho contenido gráfico
 
-	- Red Bull Racing
+	- Red Bull Racing (https://www.mercedesamgf1.com/)
 		- Presentación individual de pilotos y de la carrocería del equipo
 
-	- Prema Racing
+	- Prema Racing (https://premaracing.com/en)
 		- Galería dinámica, vídeos y noticias (el resto del contenido en páginas individuales)
 
-	- ART Grand Prix
+	- ART Grand Prix (http://www.art-grandprix.com/)
 		- Sección lateral con redes sociales del equipo
